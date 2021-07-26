@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiamCurran95
 - 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning Ruby and Python. 
+- 🌱 I’m currently learning Ruby and Python
 - 📫 If you wish to contact me e-mail liamcurran95@gmail or reach out via LinkedIn https://www.linkedin.com/in/lcurran95/
 
 <!---
