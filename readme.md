@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LiamCurran95
+- 👋 Hi, I’m Liam
 - 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning JavaScript and have experience in both Ruby and Python
+- 🌱 I’m about to join the Northcoders coding bootcamp in as a member of the January cohort! 
 - 📫 If you wish to contact me please reach out via LinkedIn https://www.linkedin.com/in/lcurran95/
 
 <!---
