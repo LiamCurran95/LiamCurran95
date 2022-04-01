@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liam
-- 👀 I’m currently working through the Northcoders software development bootcamp as a member of the January cohort! 
+- 👀 I recently graduated from the Northcoders software development bootcamp as a member of the January cohort! 
 - 📫 If you wish to contact me please reach out via LinkedIn https://www.linkedin.com/in/lcurran95/
 
 <!---
